@@ -3,32 +3,32 @@
 exports[`Link changes the class when hovered 1`] = `
 <a
   className="normal"
-  href="http://www.facebook.com"
+  href="#"
   onMouseEnter={[Function]}
   onMouseLeave={[Function]}
 >
-  Facebook
+  Delightful JavaScript Testing
 </a>
 `;
 
 exports[`Link changes the class when hovered 2`] = `
 <a
   className="hovered"
-  href="http://www.facebook.com"
+  href="#"
   onMouseEnter={[Function]}
   onMouseLeave={[Function]}
 >
-  Facebook
+  Delightful JavaScript Testing
 </a>
 `;
 
 exports[`Link changes the class when hovered 3`] = `
 <a
   className="normal"
-  href="http://www.facebook.com"
+  href="#"
   onMouseEnter={[Function]}
   onMouseLeave={[Function]}
 >
-  Facebook
+  Delightful JavaScript Testing
 </a>
 `;
